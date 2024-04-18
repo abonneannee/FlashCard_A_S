@@ -3,9 +3,10 @@
 
 ### App Description
 This app builds an animated flashcard app with transitions and answer reveals. Get creative with timers, flips, and confetti celebrations!
+
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/abonneannee/FlashCard_A_S/blob/main/WhatsApp%20Video%202024-04-17%20at%2016.22.36_70e035c4.gif" width=200><br>
 
 
 ## Required
